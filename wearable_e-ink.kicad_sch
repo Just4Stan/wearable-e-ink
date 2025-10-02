@@ -3197,7 +3197,7 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 30.48) (xy 306.07 30.48)
+			(xy 304.8 30.48) (xy 306.07 30.48)
 		)
 		(stroke
 			(width 0)
@@ -3284,6 +3284,16 @@
 			(type default)
 		)
 		(uuid "75de023b-4cfc-44c6-b000-3c7678a53ca0")
+	)
+	(wire
+		(pts
+			(xy 267.97 44.45) (xy 265.43 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7792571e-e5ef-42f5-81c9-2e7067f211cf")
 	)
 	(wire
 		(pts
@@ -3424,6 +3434,16 @@
 			(type default)
 		)
 		(uuid "b7c1e928-3f2a-4af1-96ed-42efd7c12120")
+	)
+	(wire
+		(pts
+			(xy 267.97 46.99) (xy 265.43 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8d13655-2739-468a-a91a-398299c78dc8")
 	)
 	(wire
 		(pts
@@ -3676,7 +3696,7 @@
 		(uuid "487e6e4b-ffd4-457f-adb1-b55292cb519e")
 	)
 	(label "DTR"
-		(at 265.43 46.99 0)
+		(at 267.97 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3786,7 +3806,7 @@
 		(uuid "9c2e70ab-65ee-4729-842a-d86f2986cfeb")
 	)
 	(label "DTR"
-		(at 303.53 30.48 180)
+		(at 304.8 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3836,7 +3856,7 @@
 		(uuid "cce55884-2c1c-42fd-aeb0-240575e1b7c8")
 	)
 	(label "RTS"
-		(at 265.43 44.45 0)
+		(at 267.97 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
