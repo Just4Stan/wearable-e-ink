@@ -9,6 +9,16 @@ Initial designed to give workshops at HighTechLab in Leuven
 (AI generated for simple overview)
 See the kicad files for schematics and PCB design
 
+# Display
+
+Using this open-source design, specifically the 1.54inch version. You can find them for very cheap on aliexpress.
+https://github.com/WeActStudio/WeActStudio.EpaperModule
+
+This board is basically a daughter board that is mounted ontop of this PCB.
+
+
+
+
 
 
 # Features
