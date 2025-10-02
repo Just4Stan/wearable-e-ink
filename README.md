@@ -5,7 +5,7 @@ Initial designed to give workshops at HighTechLab in Leuven
 
 # Block Diagram
 
-<img width="3420" height="2450" alt="image" src="https://github.com/user-attachments/assets/d141d0dd-8aa9-41f3-aaf3-504a9c0fb01c" />
+<img width="1013" height="582" alt="Screenshot 2025-10-02 at 12 02 03" src="https://github.com/user-attachments/assets/fadde009-9bb9-4aa7-baa4-27244c550ea3" />
 (AI generated for simple overview)
 See the kicad files for schematics and PCB design
 
