@@ -2,8 +2,9 @@
 A beginner-friendly soldering workshop project to build a WiFi-enabled, programmable e-paper name badge. This project is designed to be completed in a 2-3 hour session, teaching participants how to solder both through-hole and surface-mount (SMD) components.
 
 Initial designed to give workshops at HighTechLab in Leuven
+<img width="1111" height="673" alt="Screenshot 2025-10-03 at 11 06 39" src="https://github.com/user-attachments/assets/882fbc99-a3ca-48c4-bf03-dcc92254b480" />
+<img width="1047" height="643" alt="Screenshot 2025-10-03 at 11 06 48" src="https://github.com/user-attachments/assets/85de2f9f-8824-4b63-a65a-7de24d5d297a" />
 
-<img width="831" height="511" alt="Screenshot 2025-10-02 at 13 33 41" src="https://github.com/user-attachments/assets/696a115d-e3c6-45bc-bdda-f03f714a6274" />
 
 # Block Diagram
 
@@ -13,12 +14,7 @@ See the kicad files for schematics and PCB design
 
 # Display
 
-Using this open-source design, specifically the 1.54inch version. You can find them for very cheap on aliexpress.
-https://github.com/WeActStudio/WeActStudio.EpaperModule
-
-This board is basically a daughter board that is mounted ontop of this PCB.
-
-
+See datasheet for "GDEM0154Z91" 
 
 
 
