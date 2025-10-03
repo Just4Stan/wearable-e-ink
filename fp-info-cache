@@ -1,4 +1,4 @@
-25311070223312262
+25319867384267780
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101570,6 +101570,20 @@ C1206 footprint C1945
 2
 2
 wearable-e-inks
+FPC-SMD_24P-P0.50_05A20H24P
+FPC-SMD_24P-P0.50_05A20H24P footprint
+FPC-SMD_24P-P0.50_05A20H24P footprint C5362175
+0
+26
+26
+wearable-e-inks
+IND-SMD_L4.0-W4.0
+IND-SMD_L4.0-W4.0 footprint
+IND-SMD_L4.0-W4.0 footprint C76869
+0
+2
+2
+wearable-e-inks
 LED1206-R-RD_RED
 LED1206-R-RD_RED footprint
 LED1206-R-RD_RED footprint C49018
@@ -101580,6 +101594,20 @@ wearable-e-inks
 R1206
 R1206 footprint
 R1206 footprint C17957
+0
+2
+2
+wearable-e-inks
+SOD-123_L2.8-W1.8-LS3.7-RD
+SOD-123_L2.8-W1.8-LS3.7-RD footprint
+SOD-123_L2.8-W1.8-LS3.7-RD footprint C18863
+0
+2
+2
+wearable-e-inks
+SOD-323_L1.8-W1.3-LS2.5-RD
+SOD-323_L1.8-W1.3-LS2.5-RD footprint
+SOD-323_L1.8-W1.3-LS2.5-RD footprint C2100
 0
 2
 2
@@ -101601,6 +101629,13 @@ wearable-e-inks
 SOT-23-LDO
 SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint
 SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint C8533
+0
+3
+3
+wearable-e-inks
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR footprint
+SOT-23_L2.9-W1.3-P1.90-LS2.4-BR footprint C2588
 0
 3
 3
