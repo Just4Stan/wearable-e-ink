@@ -3,6 +3,8 @@ A beginner-friendly soldering workshop project to build a WiFi-enabled, programm
 
 Initial designed to give workshops at HighTechLab in Leuven
 
+<img width="831" height="511" alt="Screenshot 2025-10-02 at 13 33 41" src="https://github.com/user-attachments/assets/696a115d-e3c6-45bc-bdda-f03f714a6274" />
+
 # Block Diagram
 
 <img width="1013" height="582" alt="Screenshot 2025-10-02 at 12 02 03" src="https://github.com/user-attachments/assets/fadde009-9bb9-4aa7-baa4-27244c550ea3" />
